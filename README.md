@@ -36,4 +36,8 @@ The scripts in this repository automate the deployment of a scalable and highly 
 To avoid incurring charges, ensure to destroy the resources after use:
 ```bash
 terraform destroy
+```
+
+## You get output such as this
+![Screenshot from 2023-11-19 14-59-11](https://github.com/SESUGH-OPS/AWS-TERRAFORM-AUTSCALING/assets/105423735/dccff0a7-1963-4810-ad84-962806003c05)
 
